@@ -1,2 +1,2 @@
 # NetConnect
-A Java Swing desktop application for basic social network management.
+Java Swing desktop application developed for a university assignment in Object-Oriented Programming.
